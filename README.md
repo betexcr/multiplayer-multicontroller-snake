@@ -9,4 +9,5 @@ Players chase the apples on-screen and gain points. The winning player is the on
 ♒ Running ♒
 
 Run server.py
+
 Run client.py in the clients
