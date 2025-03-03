@@ -1,3 +1,10 @@
 **:snake: <span style="color:red">MultiSnake</span> :snake:**
 
-This is a repository to create a multiplayer snake game based in python.
+MultiSnake is a Python multiplayer game that lets players interplay live through the internet using any controller (or keyboard).
+
+**Rules**☑️
+Players chase the apples on-screen and gain points. The winning player is the one with more points when a collision with another snake or the game boundaries happens.
+
+♒ Running ♒
+Run server.py
+Run client.py in the clients
