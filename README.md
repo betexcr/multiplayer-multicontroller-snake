@@ -1,6 +1,6 @@
 **:snake: <span style="color:red">MultiSnake</span> :snake:**
 
-MultiSnake is a Python multiplayer game that lets players interplay live through the internet using any controller (or keyboard).
+MultiSnake is a Python multiplayer game that lets players interplay live through the internet, or hot-seat, using any controller (or keyboard).
 
 ☑️**Rules**☑️
 
@@ -8,6 +8,6 @@ Players chase the apples on-screen and gain points. The winning player is the on
 
 ♒ Running ♒
 
-Run server.py
+python server.py
 
-Run client.py in the clients
+python client.py in the player machine(s)
